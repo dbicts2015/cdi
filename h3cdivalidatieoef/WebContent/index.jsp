@@ -58,7 +58,7 @@
 	</form>
 	<table class="table table-bordered table-striped">
 		<thead>
-			<tr><th>Code</th><th>Naam</th>
+			<tr><th>Code</th><th>Naam</th><th>Duur</th>
 			<th>
 			   <c:if test="${not empty codenietgevondenfout }">
 			      <div class="alert alert-danger">
