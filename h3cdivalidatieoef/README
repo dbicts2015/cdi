@@ -1,0 +1,9 @@
+<h2>1. Cursustabel</h2>
+Eerst de database tabel aanpassen zodat er het veld duur in staat.
+Deze ook toevoegen aan de Cursus class
+
+<h2>2. getCursussen()</h2>
+Verander de getCursussen() methode zodat deze de correct ingevulde cursussen
+meegeeft.
+
+<h2></h2>
